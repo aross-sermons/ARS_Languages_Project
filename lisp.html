@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Languages</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-part">
+            <a href="index.html">Programming Languages</a>
+        </div>
+        <div class="header-part wider"></div>
+        <div class="header-part">
+        </div>
+        
+    </header>
+    <div id="main-container">
+        <div id="page-links">
+            <a href="php.html">php</a>
+            <a href="ruby.html">ruby</a>
+            <a href="rust.html">rust</a>
+            <a href="csh.html">csh</a>
+            <a href="lisp.html">lisp</a>
+        </div>
+        <div id="main-content">
+            <h1>Lisp</h1>
+            <hr>
+            <img src="img/lisp_creator.jpg" alt="Language Creator(s)">
+            <p>Lisp is a <em>recursive</em> programming language developed for interpreting and manipulating lists of data. It was <strong>created in 1960 by John McCarthy</strong> who worked at MIT at the time. Standing for LISt Processing, Lisp uses a stack-like structure to perform operations on data. Its especially good for AI and machine learning applications. Since its creation, it has branched into many 'dialects' and has gained community support in the form of an <em>open source</em> wiki. People are still developing and implementing new flavors of Lisp to this day. These are mostly used for machine learning, mathematic problems, and language experimentation.</p>
+            <h2>Language Features</h2>
+            <ul>
+                <li>List Processor</li>
+                <li>AI and Machine Learning</li>
+                <li>Great for Mathematics</li>
+            </ul>
+            <a href="https://www.britannica.com/technology/LISP-computer-language">Bio Resource</a><a href="https://media.metrolatam.com/2018/01/23/johnmccarthy-1200x800.jpg">Image Resource</a>
+            <pre>
+                <code>;; This Common Lisp code was written by ChatGPT
+
+;; Define a method to calculate the factorial of a number
+(defun factorial (n)
+    "Calculate the factorial of a non-negative integer N."
+    (if (<= n 1)
+        1
+        (* n (factorial (- n 1)))))
+</code></pre>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

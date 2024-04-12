@@ -1,0 +1,47 @@
+php:
+PHP is an <em>open-source</em> scripting language that can be tightly integrated with HTML. It was <strong>created in 1994 by Rasmus Lerdorf</strong> and began as a set of binaries used to track visits to a website. Lerdorf named these scripts "Personal Home Page Tools," hence PHP. The original package of scripts evolved over time to include more functionality as Lerdorf rewrote and expanded upon PHP Tools. <strong>Lerdorf made PHP open source in 1995</strong>, at which point other users began to expand and improve upon it. PHP is typically used for scripting <em>embedded</em> in HTML. It's great at integrating databases, handling user input, generating content, and other server-side functions. Due to its long history and extensive documentation, PHP is still popular today for the uses listed previously.
+
+Features: Direct HTML Integration, Open Source, Great for Database Interaction
+
+Image: https://1.bp.blogspot.com/-qnrAezjVk6Y/XSrB5CfONnI/AAAAAAAAIiI/iEAN-jWzgColhwL2rb8V5EbXElRcOoG9QCLcBGAs/s1600/php_creator.jpg
+
+Source: https://www.php.net/manual/en/history.php.php
+
+ruby:
+Ruby is an <em>open-source</em> programming language that emphasizes the object-oriented structure. It was <strong>created in 1995 by Yukihiro Matsumoto</strong>, who aimed to make a natural-feeling language. Matsumoto blended elements of his favorite languages, like Perl, Smalltalk, Eiffel, Ada, and Lisp, and ended up with a carefully balanced language. Crucially, <strong>Ruby treats everything as an object</strong>, taking object-oriented programming to a new level. It also allows developers to freely change and add to existing libraries in their projects. While Ruby is very dynamic, it it commonly used in web development and scripting environments. It is still popular today, especially among web developers.
+
+Features: Object Oriented, Open Source, Natural Syntax
+
+Image: https://live.staticflickr.com/3240/2394148398_a4cf5f1071_b.jpg
+
+Source: https://www.ruby-lang.org/en/about/
+
+rust:
+Rust is an <em>open-source</em> programming language made to solve issues faced by C languages. It was <strong>created in 2006 by Graydon Hoare</strong>, who was frustrated with the amount of memory errors in C languages. To solve this problem, Hoare designed Rust to automate memory handling througn an <em>ownership system</em>. This saves time and complexity for programmers, who no longer have to manually address and deaddress memory locations. Today, millions of developers use Rust as a fast, stable alternative to C. It is actively developed by many contributors and a team at Mozilla, and is used by Amazon, the U.S. Government, and even in microcontrollers.
+
+Features: Memory Managing, Open Source, Highly Optimized
+
+Image: https://s3.amazonaws.com/keybase_processed_uploads/2e310723155539fe4cce9a6f4656c405_200_200.jpeg
+
+Source: https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/
+
+csharp:
+C Sharp (C#) is a an <em>open-source</em>, object oriented version of the C++ language. It was <strong>created in 2000 by Anders Hejlsberg</strong>, who still leads the program's development at Microsoft. It was created as part of Microsoft's .NET Framework, which is a suite of software meant for developing Windows applications. Today, however, C# is used in apps across multiple platforms and is a popular language for video game developers. It is still being developed by Microsoft today, and is used by many programmers.
+
+Image: https://pbs.twimg.com/profile_images/1042861196653735937/RMAqOS_0.jpg
+
+Source: https://www.csharpworkshop.com/learn/introduction/history-of-c-sharp/
+
+lisp:
+Lisp is a <em>recursive</em> programming language developed for interpreting and manipulating lists of data. It was <strong>created in 1960 by John McCarthy</strong> who worked at MIT at the time. Standing for LISt Processing, Lisp uses a stack-like structure to perform operations on data. Its especially good for AI and machine learning applications. Since its creation, it has branched into many 'dialects' and has gained community support in the form of an <em>open source</em> wiki. People are still developing and implementing new flavors of Lisp to this day. These are mostly used for machine learning, mathematic problems, and language experimentation.
+
+Image: https://media.metrolatam.com/2018/01/23/johnmccarthy-1200x800.jpg
+
+Source: https://www.britannica.com/technology/LISP-computer-language
+
+When it was created?
+Who created it (person or group)?
+General history of the language (how has it evolved over time)
+What type of problems the language is typically used for.
+What is the current state of the language (who is still using it - what for?)
+References for all of your source material. No wikipedia!
